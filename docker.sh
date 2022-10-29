@@ -6,7 +6,7 @@
 
 echo "installation beguin"
 
-echo " please run the following installation"
+echo " please run the following commands"
 
 
 sudo yum remove docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine
